@@ -1,0 +1,6 @@
+{
+  "model_version": "20260328_174945",
+  "dataset": "iris",
+  "model_type": "logistic_regression",
+  "accuracy": 0.9333333333333333
+}
